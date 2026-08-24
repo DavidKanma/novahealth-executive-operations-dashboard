@@ -5,7 +5,7 @@ KPI reporting, and dashboard-building skills to healthcare operations analysts.
 
 ## Business Problem
 
-NovaHealth Medical Network (a fictional multi-facility healthcare provider I designed
+NovaHealth Medical Network (a multi-facility healthcare provider I designed
 for this case study) had a clean, standardized patient operations dataset but no
 centralized KPI reporting or executive dashboard. Leadership had no way to monitor
 patient volume, revenue, operational cost, staff overtime, or departmental performance
@@ -14,8 +14,8 @@ resource allocation, and facility performance.
 
 ## My Role
 
-I designed this case study end-to-end — the fictional company, the business questions,
-the dataset structure, and the full analysis — as a teaching exercise to walk others
+I designed this case study end-to-end the company, the business questions,
+the dataset structure, and the full analysis as a teaching exercise to walk others
 through executive-level Excel reporting: from raw data to Pivot Tables to an
 interactive dashboard.
 
@@ -77,7 +77,7 @@ Patient names removed prior to publishing.
 
 ## Impact Statement
 
-This case study demonstrates end-to-end executive reporting capability in Excel —
-from raw data design through Pivot Table analysis to an interactive dashboard —
+This case study demonstrates end-to-end executive reporting capability in Excel
+from raw data design through Pivot Table analysis to an interactive dashboard
 and was built specifically to teach these skills to others, reflecting both technical
 Excel depth and the ability to communicate analytical concepts clearly.
